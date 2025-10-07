@@ -28,6 +28,6 @@
     }
   },
   "dependencies": {
-    "@twemoji/api": "^15.0.3"
+    "@twemoji/api": "^16.0.1"
   }
 }
