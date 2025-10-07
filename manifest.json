@@ -44,6 +44,10 @@
     {
       "matches": ["*://www.facebook.com/*"],
       "js": ["src/facebook.js"]
+    },
+    {
+      "matches": ["*://*.twitter.com/*", "*://*.x.com/*"],
+      "js": ["src/twitter.js"]
     }
   ]
 
